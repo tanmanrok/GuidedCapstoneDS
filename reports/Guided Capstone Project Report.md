@@ -1,5 +1,5 @@
 
-# Big Mountain — Story-format recommendations
+# Big Mountain
 
 Problem statement
 
